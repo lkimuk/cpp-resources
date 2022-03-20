@@ -9,3 +9,4 @@ C++文章、论文、视频资源分享，每月四期，供群内朋友阅读�
 - [第4期220225](https://github.com/lkimuk/cpparticles/blob/main/220225.md)
 - [第5期220304](https://github.com/lkimuk/cpparticles/blob/main/220304.md)
 - [第6期220311](https://github.com/lkimuk/cpparticles/blob/main/220311.md)
+- [第7期220320](https://github.com/lkimuk/cpparticles/blob/main/220320.md)
