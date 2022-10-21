@@ -26,3 +26,4 @@ C++文章、论文、视频资源分享，每月四期，供群内朋友阅读�
 - [第21期220918](https://github.com/lkimuk/cpparticles/blob/main/220918.md)
 - [第22期220926](https://github.com/lkimuk/cpparticles/blob/main/220926.md)
 - [第23期221002](https://github.com/lkimuk/cpparticles/blob/main/221002.md)
+- [第24期221021](https://github.com/lkimuk/cpparticles/blob/main/221021.md)
