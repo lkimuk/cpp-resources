@@ -2,7 +2,7 @@
 C++文章、论文、视频资源分享，每月四期，供群内朋友阅读交流。
 
 
-##### 更新索引
+## 2022
 - [第1期220204](https://github.com/lkimuk/cpparticles/blob/main/220204.md)
 - [第2期220211](https://github.com/lkimuk/cpparticles/blob/main/220211.md)
 - [第3期220218](https://github.com/lkimuk/cpparticles/blob/main/220218.md)
@@ -35,3 +35,9 @@ C++文章、论文、视频资源分享，每月四期，供群内朋友阅读�
 - [第30期221222](https://github.com/lkimuk/cpparticles/blob/main/221222.md)
 - [第31期221231](https://github.com/lkimuk/cpparticles/blob/main/221231.md)
 - [第32期230120](https://github.com/lkimuk/cpparticles/blob/main/230120.md)
+
+---
+
+## 2023
+- [第33期 A230312](https://github.com/lkimuk/cpparticles/blob/main/2023/articles/230312.md)
+- [第33期 V230312](https://github.com/lkimuk/cpparticles/blob/main/2023/videos/230312.md)
