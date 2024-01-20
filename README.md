@@ -89,3 +89,5 @@ C++文章、论文、视频资源分享，每月四期，供群内朋友阅读�
 - [第56期 V231220](https://github.com/lkimuk/cpparticles/blob/main/2023/videos/231220.md)
 - [第57期 A240110](https://github.com/lkimuk/cpparticles/blob/main/2023/articles/240110.md)
 - [第57期 V240110](https://github.com/lkimuk/cpparticles/blob/main/2023/videos/240110.md)
+- [第58期 A240120](https://github.com/lkimuk/cpparticles/blob/main/2023/articles/240120.md)
+- [第58期 V240120](https://github.com/lkimuk/cpparticles/blob/main/2023/videos/240120.md)
