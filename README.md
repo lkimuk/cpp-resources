@@ -166,3 +166,4 @@ C++文章、论文、视频资源分享，每月四期，供群内朋友阅读�
 - [第93期 V250324](2024/videos/250324.md)
 - [第94期 A250403](2024/articles/250403.md)
 - [第94期 V250403](2024/videos/250403.md)
+- [第95期 FC250417 Parallel Programming](2024/parallel-programming/)
